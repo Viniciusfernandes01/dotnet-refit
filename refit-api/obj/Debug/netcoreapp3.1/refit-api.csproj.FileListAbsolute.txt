@@ -1,0 +1,10 @@
+C:\Users\viniciusfernandes\source\repos\refit-api\refit-api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\viniciusfernandes\source\repos\refit-api\refit-api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\viniciusfernandes\source\repos\refit-api\refit-api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\viniciusfernandes\source\repos\refit-api\refit-api\bin\Debug\netcoreapp3.1\refit-api.exe
+C:\Users\viniciusfernandes\source\repos\refit-api\refit-api\obj\Debug\netcoreapp3.1\refit-api.csprojAssemblyReference.cache
+C:\Users\viniciusfernandes\source\repos\refit-api\refit-api\obj\Debug\netcoreapp3.1\refit-api.AssemblyInfoInputs.cache
+C:\Users\viniciusfernandes\source\repos\refit-api\refit-api\obj\Debug\netcoreapp3.1\refit-api.AssemblyInfo.cs
+C:\Users\viniciusfernandes\source\repos\refit-api\refit-api\obj\Debug\netcoreapp3.1\refit-api.RazorTargetAssemblyInfo.cache
+C:\Users\viniciusfernandes\source\repos\refit-api\refit-api\obj\Debug\netcoreapp3.1\staticwebassets\refit-api.StaticWebAssets.Manifest.cache
+C:\Users\viniciusfernandes\source\repos\refit-api\refit-api\obj\Debug\netcoreapp3.1\staticwebassets\refit-api.StaticWebAssets.xml
